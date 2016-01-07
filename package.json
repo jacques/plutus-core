@@ -1,0 +1,25 @@
+{
+  "name": "plutus-core",
+  "version": "0.0.1",
+  "description": "Core engine for Plutus",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jacques/plutus-core.git"
+  },
+  "keywords": [
+    "plutus",
+    "wallet",
+    "banking"
+  ],
+  "author": "Jacques Marneweck <jacques@siberia.co.za>",
+  "license": "proprietary",
+  "bugs": {
+    "url": "https://github.com/jacques/plutus-core/issues"
+  },
+  "homepage": "https://github.com/jacques/plutus-core#readme"
+}
